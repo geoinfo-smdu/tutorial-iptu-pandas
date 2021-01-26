@@ -15,7 +15,7 @@ Serão abordados nesse primeiro tutorial:
 * Visualizando os dados de IPTU
 * Consultando os dados de IPTU
 * Agrupando os dados de IPTU
-* Gerando gráricos, estatístas, correlações e análises básicas
+* Gerando gráficos, estatístas, correlações e análises básicas
 * Processamento básico de informações de IPTU
 * Exportando dados
 * Próximos passos
