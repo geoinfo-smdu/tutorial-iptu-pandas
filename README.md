@@ -1,6 +1,6 @@
 # Tutorial - Acessando dados de IPTU com Python e Pandas
 
-Este repositório tem como objetivo servir de ponto de partida para quem quer aprender um pouco de Python para auxiliar nas tarefas de análise, visualização e tratamento de grandes volumes de dados. Um bom caso de estudo é o cadastro de IPTU da cidade de São Paulo, disponível para download no site do GeoSampa, e dessa forma vamos utiliza-lo como exemplo fazendo anãlises, consultas e viauzaliações.
+Este repositório tem como objetivo servir de ponto de partida para quem quer aprender um pouco de Python para auxiliar nas tarefas de análise, visualização e tratamento de grandes volumes de dados. Um bom caso de estudo é o cadastro de IPTU da cidade de São Paulo, disponível para download no site do GeoSampa, e dessa forma vamos utiliza-lo como exemplo fazendo anãlises, consultas e visualizações.
 
 Para acompanhar esse tutorial, é necessário ter um ambiente de trabalho com Python e algumas bibliotecas de gratuitas, distribuídas de forma livre e com código aberto.
 
